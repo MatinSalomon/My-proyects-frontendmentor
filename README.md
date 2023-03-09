@@ -6,4 +6,4 @@
 ##### _tip-calculator-app-main:_ https://github.com/MatinSalomon/MatinSalomon-tip-calculator-app-main
 ##### _interactive-card-details-form:_ https://github.com/MatinSalomon/interactive-card-details-form
 ##### _faq-accordion-card:_ https://github.com/MatinSalomon/faq-accordion-card
-##### _interactive-rating-component:_ https://github.com/MatinSalomon/interactive-rating-component# My-proyects-frontendmentor
+##### _interactive-rating-component:_ https://github.com/MatinSalomon/interactive-rating-component
