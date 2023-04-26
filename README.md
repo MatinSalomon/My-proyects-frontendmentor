@@ -12,7 +12,6 @@
 ##### code: https://github.com/MatinSalomon/MatinSalomon-tip-calculator-app-main
 ##### page: https://matinsalomon.github.io/MatinSalomon-tip-calculator-app-main/
 
-###### falta ternminar
 
 
 ## _interactive-card-details-form:_ 
