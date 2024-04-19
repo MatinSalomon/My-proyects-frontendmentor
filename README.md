@@ -8,12 +8,6 @@
 ##### code: https://github.com/MatinSalomon/3-column-preview-card-component
 ##### page: https://matinsalomon.github.io/3-column-preview-card-component/
 
-## _tip-calculator-app-main:_ 
-##### code: https://github.com/MatinSalomon/MatinSalomon-tip-calculator-app-main
-##### page: https://matinsalomon.github.io/MatinSalomon-tip-calculator-app-main/
-
-
-
 ## _interactive-card-details-form:_ 
 ##### code: https://github.com/MatinSalomon/interactive-card-details-form
 ##### page: https://matinsalomon.github.io/interactive-card-details-form/
@@ -25,3 +19,9 @@
 ## _interactive-rating-component:_ 
 ##### code: https://github.com/MatinSalomon/interactive-rating-component
 ##### page: https://matinsalomon.github.io/interactive-rating-component/
+
+Proyects not finished:
+## _tip-calculator-app-main:_ 
+##### code: https://github.com/MatinSalomon/MatinSalomon-tip-calculator-app-main
+##### page: https://matinsalomon.github.io/MatinSalomon-tip-calculator-app-main/
+
