@@ -24,4 +24,9 @@
 ##### code: https://github.com/MatinSalomon/time-tracking-dashboard
 ##### page: https://main--timedashboar.netlify.app/
 
+## _advice-generator:_ 
+##### code: [https://github.com/MatinSalomon/time-tracking-dashboard](https://github.com/MatinSalomon/advice-generator-app)
+##### page: https://matinsalomon.github.io/advice-generator-app/
+
+
 
